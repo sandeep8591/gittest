@@ -1,1 +1,2 @@
 hi git
+Checking out this repository
